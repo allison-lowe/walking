@@ -6,9 +6,9 @@ Walking Journal
 
 
 
-![selfie](/Users/allisonlowe/source/walking/selfie.png)
+![selfie](https://github.com/ebelabrie/walking/blob/main/selfie.png)
 
 
 
-![10-15-21](/Users/allisonlowe/source/walking/10-15-21.png)
+![10-15-21](https://github.com/ebelabrie/walking/blob/main/10-15-21.png)
 
