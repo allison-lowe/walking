@@ -12,7 +12,7 @@ Entries 1 - 5
 
 
 ##### 11-07-21
-Entries 6 - 12
+Entries 6 - 22
 ![entry-06](https://github.com/ebelabrie/walking/blob/main/digitized/uploads/6.png)
 ![entry-07](https://github.com/ebelabrie/walking/blob/main/digitized/uploads/7.png)
 ![entry-08](https://github.com/ebelabrie/walking/blob/main/digitized/uploads/8.png)
