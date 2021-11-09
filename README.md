@@ -31,10 +31,3 @@ Entries 6 - 22
 ![entry-21](https://github.com/ebelabrie/walking/blob/main/digitized/uploads/21.png)
 ![entry-22](https://github.com/ebelabrie/walking/blob/main/digitized/uploads/22.png)
 
-
-##### 10-15-21
-Introduction
-
-![selfie](https://github.com/ebelabrie/walking/blob/main/photos/selfie.png)
-![10-15-21](https://github.com/ebelabrie/walking/blob/main/photos/10-15-21.png)
-
